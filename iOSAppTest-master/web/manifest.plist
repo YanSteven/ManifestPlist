@@ -5,6 +5,19 @@
 	<key>items</key>
 	<array>
 		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>NICOACG</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>bundle-identifier</key>
+				<string>com.my.nicoacg</string>
+			</dict>
+		</dict>
+		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
@@ -26,17 +39,6 @@
 					<string>software-package</string>
 				</dict>
 			</array>
-			<key>metadata</key>
-			<dict>
-				<key>title</key>
-				<string>NICOACG</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>bundle-version</key>
-				<string>1.0.0</string>
-				<key>bundle-identifier</key>
-				<string>com.my.nicoacg</string>
-			</dict>
 		</dict>
 	</array>
 </dict>
