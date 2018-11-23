@@ -22,19 +22,19 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://www.nicoacg1.com/IOS/image57×57.png</string>
+					<string>http://192.168.1.193:8080/ios/mage57×57.png</string>
 					<key>kind</key>
 					<string>display-image</string>
 				</dict>
 				<dict>
 					<key>url</key>
-					<string>https://www.nicoacg1.com/IOS/image512×512.png</string>
+					<string>http://192.168.1.193:8080/ios/image512×512.png</string>
 					<key>kind</key>
 					<string>full-size-image</string>
 				</dict>
 				<dict>
 					<key>url</key>
-					<string>https://www.nicoacg1.com/IOS/CosplayProject.ipa</string>
+					<string>http://192.168.1.193:8080/ios/CosplayProject.ipa</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
